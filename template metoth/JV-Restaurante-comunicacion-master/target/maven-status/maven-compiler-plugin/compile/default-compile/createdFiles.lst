@@ -1,0 +1,14 @@
+co\unicauca\restaurante\comunicacion\infra\Protocol.class
+co\unicauca\restaurante\comunicacion\infra\JsonError.class
+co\unicauca\restaurante\comunicacion\infra\Parameter.class
+co\unicauca\restaurante\comunicacion\domain\Restaurant.class
+co\unicauca\restaurante\comunicacion\domain\TypeDay.class
+co\unicauca\restaurante\comunicacion\domain\User.class
+co\unicauca\restaurante\comunicacion\infra\SubjectDish.class
+co\unicauca\restaurante\comunicacion\infra\Utilities.class
+co\unicauca\restaurante\comunicacion\domain\DayMenu.class
+co\unicauca\restaurante\comunicacion\domain\SpecialMenu.class
+co\unicauca\restaurante\comunicacion\domain\Dish.class
+co\unicauca\restaurante\comunicacion\infra\ParameterImagen.class
+co\unicauca\restaurante\comunicacion\domain\Componente.class
+co\unicauca\restaurante\comunicacion\infra\ObserverDish.class
